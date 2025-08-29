@@ -4,7 +4,7 @@
 
 ## 🎓 About Me:
 
-I am a first-year Computer Science student at the College of Management, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a first-year Computer Science student at the College Of Management, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ---
 
