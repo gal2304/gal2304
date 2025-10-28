@@ -13,13 +13,11 @@ I am a first-year Computer Science student at the College Of Management, passion
 - 🤖 Exploring Machine Learning with **PyTorch**
 - 💻 Building Social Media applications with **MongoDB**
 
-Check out my [coding portfolio!](#) <!-- Replace # with your actual link -->
-
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) <!-- Replace with your LinkedIn URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gal-lavi)) <!-- Replace with your LinkedIn URL -->
 
 ---
 
